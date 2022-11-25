@@ -11,3 +11,5 @@ The report will discuss the focus problem and introduce background information o
 3. Baseball players can have a better idea of their salaries to choose whether they should move or stay in the team. 
 
 The final conclusion of the data report is that a players’ popularity and votes are more significant factors than batting, fielding, or pitching records to their salary. 
+
+Here is the final report with more extensive analysis: https://github.com/parkd25/Baseball_Data_Science/blob/main/Data%20Report_%20Predicting%20Baseball%20Players'%20Salaries.pdf
